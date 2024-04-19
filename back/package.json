@@ -2,7 +2,7 @@
   "scripts": {
     "start": "node .",
     "dev": "npx ts-node-dev src/Routes/index.ts",
-    "test": "ts-node/esm ./.mocharc.cts",
+    "test": "ainda em desenvolvimento",
     "db:start": "docker-compose up -d",
     "db:stop": "docker-compose down",
     "db:log": "docker-compose up",
